@@ -11,7 +11,7 @@ name": "My Custom CloudStreamdescription": "A collection of my custom streaming 
     "url": "https://githubusercontent.com",
     "version": 1,
     "versionCode": 100,
-    "authors": ["YourUsername"],
+    "authors": ["shimagila555"],
     "language": "en",
     "tvTypes": ["movie", "tvseries"],
     "iconUrl": "https://githubusercontent.com"
