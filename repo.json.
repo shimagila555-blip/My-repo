@@ -1,0 +1,8 @@
+{
+  "name": "My Custom Repository",
+  "description": "A collection of my personal plugins",
+  "manifestVersion": 1,
+  "pluginLists": [jiocinemaus,9animeuk]
+    "https://githubusercontent.com"
+  ]
+}
