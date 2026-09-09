@@ -1,6 +1,6 @@
 name": "My Custom CloudStreamdescription": "A collection of my custom streaming scraping providers.",
   "manifestVersion": 1,
-  "pluginLists": [https://www.jiocinemaus.com/]
+  "pluginLists": [jiocinemaus ]
     "https://githubusercontent.com"
   ]
 }[
